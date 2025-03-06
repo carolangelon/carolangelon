@@ -1,13 +1,17 @@
-## Hi there, I'm Carol Angelon! 👋
+## Hi there, I'm Carol Angelon!
 
-I'm a passionate process analyst with a keen interest in AI, processing automation, Security Information and Data Governance. :man_technologist: :bar_chart: 
+Coffee? ☕
+
+
+Well, I'm a passionate process analyst with a keen interest in AI, processing automation, Security Information and Data Governance. :man_technologist: :bar_chart: 
 
 I love to learn new technologies and contribute to the community. 
 
 ## 🔧 Technologies & Tools
 
-- BPMN notation and,
-- Bizagi, Miro and Visio (to design flowcharts).
+- BPMN notation;
+- SCRUM and,
+- Bizagi, Miro and Visio.
 
 ## 🌱 Currently Learning
 
@@ -15,3 +19,6 @@ I love to learn new technologies and contribute to the community.
 - Data analysis techniques and,
 - SQL programming language.
 
+## 📱 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/ana-carolina-angelon-79688a150/)
